@@ -26,7 +26,7 @@ A repo that collects articles, tutorials and information for the "cloud self-stu
 ### Video
 
  - [Using Hooks and Codegen | Tejas Kumar](https://www.youtube.com/watch?v=cdsnzfJUqm0&list=FLj2sktdED7Oi65qOezqzq6A&index=3&t=0s) - A conference video talks about react gql, tools and codegen.
-
+ - [Intermediate React Tutorial - Todoist Clone (with Firebase, Custom Hooks, SCSS, React Testing)](https://www.youtube.com/watch?v=hT3j87FMR6M) - A todolist for intermdiate learner.
 ### Guide
 
 ### Note
