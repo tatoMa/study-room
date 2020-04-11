@@ -10,12 +10,12 @@ A repo that collects articles, tutorials and information for the "cloud self-stu
 
 ## Table of content
 
-- [Article] (#Article)
-- [Tutorial] (#Tutorial)
-- [Video] (#Video)
-- [Guide] (#Guide)
-- [Note] (#Note)
-- [Resources] (#Resources)
+- [Article](#Article)
+- [Tutorial](#Tutorial)
+- [Video](#Video)
+- [Guide](#Guide)
+- [Note](#Note)
+- [Resources](#Resources)
 
 ## Resources
 
@@ -32,3 +32,5 @@ A repo that collects articles, tutorials and information for the "cloud self-stu
 ### Note
 
 ### Resources
+
+ - [21 days challenge conquering responsive layouts](https://courses.kevinpowell.co/conquering-responsive-layouts) - A challenge focus on challenge your css skills focus on responsive layout started from April 13th.
