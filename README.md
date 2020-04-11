@@ -23,6 +23,8 @@ A repo that collects articles, tutorials and information for the "cloud self-stu
 
 ### Tutorial
 
+ - [21 days challenge conquering responsive layouts](https://courses.kevinpowell.co/conquering-responsive-layouts) - A challenge focus on challenge your css skills focus on responsive layout started from April 13th.
+
 ### Video
 
  - [Using Hooks and Codegen | Tejas Kumar](https://www.youtube.com/watch?v=cdsnzfJUqm0&list=FLj2sktdED7Oi65qOezqzq6A&index=3&t=0s) - A conference video talks about react gql, tools and codegen.
@@ -33,4 +35,4 @@ A repo that collects articles, tutorials and information for the "cloud self-stu
 
 ### Resources
 
- - [21 days challenge conquering responsive layouts](https://courses.kevinpowell.co/conquering-responsive-layouts) - A challenge focus on challenge your css skills focus on responsive layout started from April 13th.
+ - [Material design kit template](https://materialdesignkit.com/templates/) - A template based on the material design standard
